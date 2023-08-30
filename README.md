@@ -10,7 +10,7 @@ breakdown of its implementation.
 ## Representing an ODE in form of Neural Network Layer
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/ee8d19aa-28e1-4067-b7c7-ae65c5f7fa99" alt="Image description" width="400">
 
-## Learning dynamics of Time Series Data
+## Learning the dynamics of Time Series Data
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/6dd62447-30cd-4251-9fac-98262db6e425" alt="Image description" width="600">
 
 ##  Forward pass and Backward pass(with Adjoint Sensitivity method)
