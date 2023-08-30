@@ -17,5 +17,5 @@ breakdown of its implementation.
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/6955da18-f323-4274-9fb5-ee4968a72827" alt="Image description" width="600">
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/12b33438-fca0-49d9-95f6-d36ba8ad4127" alt="Image description" width="600">
 
-## Training 
+## Visualizing the training and results
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/9deb3ee3-b511-4c5b-94bb-72337db45d00" alt="Image description" width="500" height="500">
