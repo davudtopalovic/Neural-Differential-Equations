@@ -8,7 +8,7 @@ breakdown of its implementation, explained in detail.
 ![ResNet_ODENet drawio](https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/b069cba1-9b9c-4252-bbbb-c7b2307744bd)
 
 ## Representing an ODE in form of Neural Network Layer
-![ODE_as_NN drawio](https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/03d2f133-bfb0-468d-9a12-92e19ecc3f34)
+![ODE_as_NN drawio](https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/ee8d19aa-28e1-4067-b7c7-ae65c5f7fa99)
 
 ## Forward/Backward
 
