@@ -2,7 +2,7 @@
 Neural Differential Equations for Time Series Analysis
 
 At this repository you can find the code that implements the Neural Differential Equation algorithm. The code is commented in detail. Also you can check my report on Neural ODEs: "Understanding the Neural ODE Implementation.pdf", where I describe the idea, intuition and math behind the algorithm, followed by a thorough
-breakdown of its implementation, explained in detail.
+breakdown of its implementation.
 
 ## From ResNet to Neural ODE
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/b069cba1-9b9c-4252-bbbb-c7b2307744bd" alt="Image description" width="400">
