@@ -18,8 +18,18 @@ breakdown of its implementation.
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/12b33438-fca0-49d9-95f6-d36ba8ad4127" alt="Image description" width="600">
 
 ## Visualizing the training and results
+$`
+\frac{dz}{dt} = 
+\begin{bmatrix}
+-0.1 & 2.0 \\
+-2.0 & -0.1 \\
+\end{bmatrix} z^3 
+\quad \text{with} \quad  \begin{bmatrix}z_1\\z_2\end{bmatrix}(0) \begin{bmatrix}0.0\\2.0\end{bmatrix}
+`$
+
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/9deb3ee3-b511-4c5b-94bb-72337db45d00" alt="Image description" width="500" height="500">
 
 ## GIF
 $`\frac{dz}{dt} = \begin{bmatrix}-0.1 & -1.0\\1.0 & -0.1\end{bmatrix} z \quad \text{with} \quad  \begin{bmatrix}z_1\\z_2\end{bmatrix}(0) \begin{bmatrix}0.6\\0.3\end{bmatrix}`$
+
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/4ebfc460-6c0d-44aa-b518-1a3531ca7c0f" alt="Image description" width="500">
