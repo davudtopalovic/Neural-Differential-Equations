@@ -11,7 +11,7 @@ breakdown of its implementation, explained in detail.
 <img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/ee8d19aa-28e1-4067-b7c7-ae65c5f7fa99" alt="Image description" width="400">
 
 ## Forward/Backward
-<img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/6dd62447-30cd-4251-9fac-98262db6e425" alt="Image description" width="400">
+<img src="https://github.com/davudtopalovic/Neural-Differential-Equations/assets/117101265/6dd62447-30cd-4251-9fac-98262db6e425" alt="Image description" width="600">
 
 
 ## Training 
